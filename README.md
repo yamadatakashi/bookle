@@ -1,3 +1,3 @@
 #Gitチュートリアル
 
--fix-B
+-fix-B retry
